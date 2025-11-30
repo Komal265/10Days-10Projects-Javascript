@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #4b7bec;
+}
+
+#container  {
+    text-align: center;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 15px;
+  color: darkblue;
+}
+
+#noteInput {
+  width: 50%;
+  padding: 10px;
+  font-size: 18px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px ;
+  cursor: pointer;
+  background: darkblue;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-left: 47%;
+  box-shadow: 5px 5px 1px black;
+  display: flex;
+ 
+}
+
+.note {
+  background: white;
+  padding: 12px;
+  margin-top: 10px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  width: auto;
+  
+  
+}
+
+.note button {
+  background: #ff3b30;
+  padding: 5px 10px;
+  font-size: 14px;
+  border-radius: 4px;
+  margin-top: 10px;
+  
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 14%;
+}
+
