@@ -16,3 +16,8 @@
 | 8   |                                                                                    |
 | 9   |                                                                                    |
 | 10  |                                                                                    |
+
+## Tech Stack ⚙️
+
+HTML CSS JS
+
