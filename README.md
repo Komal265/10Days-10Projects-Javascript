@@ -11,8 +11,8 @@
 | 3   |              [CounterApp](https://komalsalunkhe891-counterapp.netlify.app/)        |
 | 4   |            [SaveNotesApp](https://komalsalunkhe891-savenotesapp.netlify.app/)      |
 | 5   |              [TodoApp](https://komalsalunkhe891-todoapp.netlify.app/)              |
-| 6   |                                                                  |
-| 7   |                                                                    |
-| 8   |                                                                  |
-| 9   |                                                            |
+| 6   |                                                                                    |
+| 7   |                                                                                    |
+| 8   |                                                                                    |
+| 9   |                                                                                    |
 | 10  |                                                                                    |
