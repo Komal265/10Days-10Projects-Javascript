@@ -7,12 +7,12 @@
 | Day |                                        Name                                        |
 | --- | :--------------------------------------------------------------------------------: |
 | 1   |              [Calculator](https://komalsalunkhe891-calculator.netlify.app/)        |
-| 2   |       [ColorGenerator](https://komalsalunkhe891-colorgenerator.netlify.app/)      |
-| 3   |              [CounterApp]()                                                        |
-| 4   |                 [Clock]()                                                          |
-| 5   |    [Random Color Generator]()                                                      |
-| 6   |         [Digital Clock]()                                                          |
-| 7   |          [Color Picker]()                                                          |
-| 8   |         [Visit Counter]()                                                          |
-| 9   |        [Joke Generator]()                                                          |
-| 10  |       [Countdown Timer]()                                                          |
+| 2   |       [ColorGenerator](https://komalsalunkhe891-colorgenerator.netlify.app/)       |
+| 3   |              [CounterApp](https://komalsalunkhe891-counterapp.netlify.app/)        |
+| 4   |            [SaveNotesApp](https://komalsalunkhe891-savenotesapp.netlify.app/)      |
+| 5   |              [TodoApp](https://komalsalunkhe891-todoapp.netlify.app/)              |
+| 6   |                                                                  |
+| 7   |                                                                    |
+| 8   |                                                                  |
+| 9   |                                                            |
+| 10  |                                                                                    |
