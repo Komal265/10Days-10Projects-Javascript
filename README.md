@@ -12,6 +12,7 @@
 | 4   |            [SaveNotesApp](https://komalsalunkhe891-savenotesapp.netlify.app/)      |
 | 5   |              [TodoApp](https://komalsalunkhe891-todoapp.netlify.app/)  |
 | 6   |      [JokesGenerator](https://jokesgeneratorapp.komalsalunkhe891.workers.dev/)                                                                             |
+| 6   |      [WeatherApp](https://weatherapp.komalsalunkhe891.workers.dev/)                                                                             |
 | 7   |                                                                                    |
 | 8   |                                                                                    |
 | 9   |                                                                                    |
