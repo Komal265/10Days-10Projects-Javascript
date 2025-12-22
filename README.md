@@ -6,13 +6,13 @@
 
 | Day |                                        Name                                        |
 | --- | :--------------------------------------------------------------------------------: |
-| 1   |              [Calculator](https://komalsalunkhe891-calculator.netlify.app/)        |
-| 2   |       [ColorGenerator](https://komalsalunkhe891-colorgenerator.netlify.app/)       |
-| 3   |              [CounterApp](https://komalsalunkhe891-counterapp.netlify.app/)        |
-| 4   |            [SaveNotesApp](https://komalsalunkhe891-savenotesapp.netlify.app/)      |
-| 5   |              [TodoApp](https://komalsalunkhe891-todoapp.netlify.app/)  |
+| 1   |              [Calculator](https://calculator.komalsalunkhe891.workers.dev/)        |
+| 2   |       [ColorGenerator](https://colorgenerator.komalsalunkhe891.workers.dev/)       |
+| 3   |              [CounterApp](https://counterapp.komalsalunkhe891.workers.dev/)        |
+| 4   |            [SaveNotesApp](https://savenoteapp.komalsalunkhe891.workers.dev/)      |
+| 5   |              [TodoApp](https://todoapp.komalsalunkhe891.workers.dev/)  |
 | 6   |      [JokesGenerator](https://jokesgeneratorapp.komalsalunkhe891.workers.dev/)                                                                             |
-| 7   |                                                                                    |
+| 7   |       [WeatherApp](https://weatherapp.komalsalunkhe891.workers.dev/)                                                                                |
 | 8   |                                                                                    |
 | 9   |                                                                                    |
 | 10  |                                                                                    |
