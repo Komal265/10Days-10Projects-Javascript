@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Manager</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Student Manager</h1>
+
+        <div class="form">
+            <input type="text" id="name" placeholder="Student Name">
+            <input type="text" id="marks" placeholder="Marks">
+            <button id="addbtn">Add Student</button>
+        </div>
+        <div class="stats">
+            <p>Average Marks:  <span id="average">-</span></p>
+            <p>Topper: <span id="topper">-</span></p>
+        </div>
+
+        <ul id="studentList"></ul>
+    </div>
+
+    <script src="script.js"></script>     
+</body>
+</html>
