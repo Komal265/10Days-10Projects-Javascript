@@ -13,7 +13,7 @@
 | 5   |              [TodoApp](https://todoapp.komalsalunkhe891.workers.dev/)  |
 | 6   |      [JokesGenerator](https://jokesgeneratorapp.komalsalunkhe891.workers.dev/)                                                                             |
 | 7   |       [WeatherApp](https://weatherapp.komalsalunkhe891.workers.dev/)                                                                                |
-| 8   |                                                                                    |
+| 8   |   [StudentManager](https://studentmanager.komalsalunkhe891.workers.dev/)                                                                                 |
 | 9   |                                                                                    |
 | 10  |                                                                                    |
 
