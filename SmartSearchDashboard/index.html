@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Smart Search Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="container">
+    <div class="card">
+      <h1 id="header">Javascript Performance Playground</h1>
+      <p class="subtitle">
+        Demonstrating Debounce, Throttle, Event Loop & JS Internals
+      </p>
+
+      <input
+        type="text"
+        id="search"
+        placeholder="Type to search..."
+      />
+
+      <div class="status">
+        <p id="typingStatus">🟡 Typing... waiting for debounce</p>
+        <p id="apiStatus">⏸ API not called yet</p>
+      </div>
+    </div>
+  </div>
+
+ 
+  <div class="scroll-demo">
+    <h2>👋 Hello there!</h2>
+    <p>
+      You’ve reached the bottom.<br />
+      Now notice how the <b>scroll throttle count</b> increases slowly.
+    </p>
+
+    <div class="counter">
+      Scroll Throttle Count:
+      <span id="scrollCount">0</span>
+    </div>
+  </div>
+
+  <footer class="copyright">
+    <a href="https://github.com/Komal265/10Days-10Projects-Javascript" target="_blank">
+      10Days-10Projects-Javascript
+    </a>
+    <p>Made by Komal Salunkhe</p>
+  </footer>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
