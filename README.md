@@ -14,7 +14,7 @@
 | 6   |      [JokesGenerator](https://jokesgeneratorapp.komalsalunkhe891.workers.dev/)                                                                             |
 | 7   |       [WeatherApp](https://weatherapp.komalsalunkhe891.workers.dev/)                                                                                |
 | 8   |   [StudentManager](https://studentmanager.komalsalunkhe891.workers.dev/)                                                                                 |
-| 9   |                                                                                    |
+| 9   |     [Javascript PeformancePlayground ](https://javascriptperformanceplayground.komalsalunkhe891.workers.dev/)                                                                              |
 | 10  |                                                                                    |
 
 ## Tech Stack ⚙️
