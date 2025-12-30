@@ -15,7 +15,7 @@
 | 7   |       [WeatherApp](https://weatherapp.komalsalunkhe891.workers.dev/)                                                                                |
 | 8   |   [StudentManager](https://studentmanager.komalsalunkhe891.workers.dev/)                                                                                 |
 | 9   |     [Javascript PeformancePlayground ](https://javascriptperformanceplayground.komalsalunkhe891.workers.dev/)                                                                              |
-| 10  |   [productLoader](https://fakeproductloader.komalsalunkhe891.workers.dev/)                                                                                    |
+| 10  |   [ProductLoader](https://fakeproductloader.komalsalunkhe891.workers.dev/)                                                                                    |
 
 ## Tech Stack ⚙️
 
